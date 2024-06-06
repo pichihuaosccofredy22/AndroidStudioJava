@@ -1,0 +1,7 @@
+/******************************************************* CONECTAR LA BASE DE DATOS MYSQL CON ANDROID STUDI (JAVA)*********************************************************************/
+
+------ PASO 01 -----
+       Crear el proyecto en Android Studio
+
+----- PASO 02 ------
+      Crear la Base de datos (XAMPP o Tiene que estar en la nube)
